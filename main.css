@@ -29,6 +29,14 @@ table {
 	line-height: 40px;
 	width: 100%;
 }
+.footer ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+.footer li {
+	display: inline;
+}
 .footer a {
 	text-decoration: none;
 	color: black;
